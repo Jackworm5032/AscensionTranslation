@@ -6,6 +6,8 @@ How to change language in JSON file.
 
 3) Click on "replace" tab
 
-4) Type "French" in find what.
+4) Type "French" in find what
 
-5) Type "LANGUAGE YOU WANT" in replace what.
+5) Type "LANGUAGE YOU WANT" in replace what
+
+6) Translate
