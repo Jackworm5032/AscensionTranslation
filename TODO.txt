@@ -1,0 +1,11 @@
+	
+	--TODO--
+
+.LEBF/Epic/Rare/Green Enchants
+.Vanities
+.Enchants Tab
+.Mythic Keystones Interface
+.Professions/HRmaterials
+.CoA
+.probably some others stuff
+
