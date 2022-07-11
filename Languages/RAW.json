@@ -1,0 +1,2056 @@
+﻿{
+  "EnchantID":"986052",
+  "SpellID":"986052",
+  "SpellName":"Relentless",
+  "SpellTooltip":"",
+  "SpellDescription":"Hemorrhage now has a chance to trigger the Sword and Board talent, Shield Slam awards two combo points, and Relentless Strikes talent also increases the Armor you gain from your Shield by 100%. 
+
+In addition, Expose Armor and Eviscerate abilities trigger an additional effect while wearing a Shield:
+
+Expose Armor - Generates bonus threat and causes your physical abilities against the target to deal additional high-threat damage.
+
+Eviscerate - Triggers a second attack with your Shield, dealing damage to all nearby enemies.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965442",
+  "SpellID":"965442",
+  "SpellName":"Wacky Wizardry",
+  "SpellTooltip":"",
+  "SpellDescription":"Your offensive Mage spell casts have a chance to cast an additional random Mage spell for free.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965473",
+  "SpellID":"965473",
+  "SpellName":"Holy Radiance",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Greater Heal, Flash Heal and Penance spells now also heal all targets affected by your Renew for 25% of the amount. Also reduces the mana cost of Renew by 30%.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977764",
+  "SpellID":"977764",
+  "SpellName":"Ice Lash",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Lava Lash is transformed into Ice Lash, dealing Frost damage and increasing the damage of your Frostbolt and Ice Lance based on your attack power. If cast while Fingers of Frost is active, Ice Lash is guaranteed to critically hit and restore your Fingers of Frost charges.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84508",
+  "SpellID":"84508",
+  "SpellName":"Purification By Light",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to exorcise your target, leaving an area of light causing Holy damage at the target's location. These effects scale with your Exorcism and Consecration abilities.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965421",
+  "SpellID":"965421",
+  "SpellName":"Divine Purpose",
+  "SpellTooltip":"",
+  "SpellDescription":"When you heal with Penance, the damage of your next Penance spell is increased by 75%, and when you deal damage with Penance, the healing of your next Penance spell is increased by 75%. In addition, the cooldown of Penance is reduced by 2 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"990055",
+  "SpellID":"990055",
+  "SpellName":"Snowblind",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Blizzard is transformed into Ice Prism, an instant spell that embeds Ice Prisms in the target, dealing Frost damage over time and increasing their chance to be critically struck by your Holy spells by 6% for 10 seconds. Dealing damage with Cone of Cold or Frostbolt refreshes the duration of Ice Prism.
+
+Your Holy spell and ability criticals on targets affected by your Ice Prism shatter a prism, dealing bonus Frost damage. This damage always critically hits, scales with Cone of Cold modifiers, and is capable of triggering Surge of Light, once every 2 seconds, if known.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965476",
+  "SpellID":"965476",
+  "SpellName":"Blessing of the Divines",
+  "SpellTooltip":"",
+  "SpellDescription":"Your holy or nature healing spells have a chance to cast an additional beneficial effect on you or your allies.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977771",
+  "SpellID":"977771",
+  "SpellName":"Ambidextrous",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Single-Minded Fury off-hand attacks have a 75% chance to trigger an instant attack with your main-hand weapon and increase your attack power by 10% for 6 seconds.
+
+Your Bloodthirst and Execute and Rend casts have a 75% chance to trigger an instant attack with your off-hand weapon and increase your off-hand damage by 40% for 6 seconds. 
+
+These effects have separate internal cooldowns lasting 12 seconds and cannot occur simultaneously.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84533",
+  "SpellID":"84533",
+  "SpellName":"Eccentric Elementalist",
+  "SpellTooltip":"",
+  "SpellDescription":"Your offensive Shaman spell casts have a chance to cast an additional random Shaman spell for free.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965500",
+  "SpellID":"965500",
+  "SpellName":"Stormbringer",
+  "SpellTooltip":"",
+  "SpellDescription":"Your non-periodic damaging abilities and spells have a chance to strike your target's location with lightning, dealing additional Nature damage to the target and leaving an electrified area slowing enemies by 50% and dealing damage every second for 4 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"86438",
+  "SpellID":"86438",
+  "SpellName":"Tree of Wrath",
+  "SpellTooltip":"",
+  "SpellDescription":"This enchant is temporarily disabled",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81122",
+  "SpellID":"81122",
+  "SpellName":"overloaded Froststorm",
+  "SpellTooltip":"",
+  "SpellDescription":"You gain a stack of Overloaded when dealing direct Nature or Frost Damage. Upon reaching 20 stacks of Overloaded, you will trigger an Overloaded Froststorm on your target. This spell deals Froststorm damage over 8 seconds and increases your spell casting speed by 10% for 8 seconds. Froststorm damage is a combination of the Nature and Frost schools, and will benefit from the highest modifier to either school.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81102",
+  "SpellID":"81102",
+  "SpellName":"Social Distancing",
+  "SpellTooltip":"You gain 20% disease resistance while no other player is within 6 yards of you.",
+  "SpellDescription":"You gain 20% disease resistance while no other player is within 6 yards of you.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978235",
+  "SpellID":"978235",
+  "SpellName":"Astral Bomber",
+  "SpellTooltip":"Transforms Starfire into Astral Flare. Astral Flare deals Spellfire damage. 
+
+Spellfire damage is a combination of the Arcane and Fire schools, and will benefit from the highest modifier to either school.
+
+Your Fireball and Fireblast can trigger Eclipse(Lunar). Requires Rank 3 of Eclipse.
+
+During Solar Eclipse, your Fireball and Pyroblast hits grant you a stack of Lunar Bomber. Lunar Bomber increases your Astral Flare damage by 3% per stack each time you cast Astral Flare. You lose all stacks of Lunar Bomber when Eclipse (Lunar) ends.
+
+Your Astral Flare strikes during Lunar Eclipse grants you a stack of Solar Bomber. Solar Bomber increases your Fireball and Pyroblast damage by 3% per stack each time you cast them. You lose all stacks of Solar Bomber when Eclipse (Solar) ends.",
+  "SpellDescription":"Transforms Starfire into Astral Flare. Astral Flare deals Spellfire damage. 
+
+Spellfire damage is a combination of the Arcane and Fire schools, and will benefit from the highest modifier to either school.
+
+Your Fireball and Fireblast can trigger Eclipse(Lunar). Requires Rank 3 of Eclipse.
+
+During Solar Eclipse, your Fireball and Pyroblast hits grant you a stack of Lunar Bomber. Lunar Bomber increases your Astral Flare damage by 3% per stack each time you cast Astral Flare. You lose all stacks of Lunar Bomber when Eclipse (Lunar) ends.
+
+Your Astral Flare strikes during Lunar Eclipse grants you a stack of Solar Bomber. Solar Bomber increases your Fireball and Pyroblast damage by 3% per stack each time you cast them. You lose all stacks of Solar Bomber when Eclipse (Solar) ends.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84510",
+  "SpellID":"84510",
+  "SpellName":"Unbounded Spell Slinger",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to strike your target and nearby enemies with arcane magic, dealing additional Arcane damage and triggering the Lesser Clearcasting effect, reducing the mana cost of your next ability by 20%.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"990020",
+  "SpellID":"990020",
+  "SpellName":"Harbringer of Pestilence",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Insect Swarm is transformed into Insect Swarm (Plague), a Disease spell dealing Plague damage, and benefiting from the damage increase from Haunt and can crit.
+
+Your Wrath now increases the damage of diseases from you and your pet by 20% for 8 seconds, stacking 5 times. Casting Haunt while this effect is active causes an explosion of bile around the target, dealing Plague damage on up to 5 nearby enemies. This damage increases with the amount of stacks you have.
+
+Plague damage is a combination of the Shadow and Nature schools and will benefit from the highest modifiers to either school.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978721",
+  "SpellID":"978721",
+  "SpellName":"Undaunted",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Last Stand now reduces the damage stored in your current Stagger effect to zero, but its health bonus is reduced to 10%. Activating Last Stand allows the use of Victory Rush, and using Victory Rush reduces the cooldown of your Last Stand by 40 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954326",
+  "SpellID":"954326",
+  "SpellName":"Forbidden Technique",
+  "SpellTooltip":"",
+  "SpellDescription":"Replaces your Shadow Dance with Forbidden Technique, firing a projectile dealing 130% Ranged Weapon damage as Shadow, teleporting you to the target and activating Shadow Dance. Your Shadow remains behind. While Shadow Dance is active, your Ambush costs 30 less energy and causes your Shadow to throw a Shadow Dagger at your target. 
+
+When Shadow Dance ends you teleport back to your Shadow, absorbing some of its power. This gives you a chance to follow up your Ranged weapon attacks by throwing a Shadow Dagger at the target, dealing bonus damage and reducing the cooldown of your Forbidden Technique by 2 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978236",
+  "SpellID":"978236",
+  "SpellName":"Thunder Slam",
+  "SpellTooltip":"Dealing damage with Thunder Clap or Execute reduces the cast time of your next Lightning Bolt or Chain Lightning by 100%.
+
+Lightning Bolt and Chain Lightning grant you Storm Blade. allowing you to cast Thunder Slam or Lightning Blade. You can store up to 3 charges.
+
+Slam is transformed into Thunder Slam, dealing Nature damage to enemies in a cone in front of you.
+
+The damage of Thunder Clap is reduced by 33% but your Stormstrike is transformed into Lightning Blade, dealing weapon damage and increasing the Thunder Clap damage by 60% and Nature Damage by 20% to your target.
+
+Dealing damage with Lightning Blade or Thunder Slam reduces the remaining cooldown on Thunder Clap by 2 seconds and increases your spell damage by 10% of your melee attack power, stacking up to 3 times. All effects require a single Two-Handed Weapon.",
+  "SpellDescription":"Dealing damage with Thunder Clap or Execute reduces the cast time of your next Lightning Bolt or Chain Lightning by 100%.
+
+Lightning Bolt and Chain Lightning grant you Storm Blade. allowing you to cast Thunder Slam or Lightning Blade. You can store up to 3 charges.
+
+Slam is transformed into Thunder Slam, dealing Nature damage to enemies in a cone in front of you.
+
+The damage of Thunder Clap is reduced by 33% but your Stormstrike is transformed into Lightning Blade, dealing weapon damage and increasing the Thunder Clap damage by 60% and Nature Damage by 20% to your target.
+
+Dealing damage with Lightning Blade or Thunder Slam reduces the remaining cooldown on Thunder Clap by 2 seconds and increases your spell damage by 10% of your melee attack power, stacking up to 3 times. All effects require a single Two-Handed Weapon.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978727",
+  "SpellID":"978727",
+  "SpellName":"Unchained",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Blink is transformed into Unchained Blink.
+
+Unchained Blink can be used while casting other spells. When used, it slows near nearby enemies to the matter around them, slowing them by 50% for 2 seconds.
+
+It has a 35 second cooldown and does not trigger a global cooldown.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84531",
+  "SpellID":"84531",
+  "SpellName":"Deranged Druid",
+  "SpellTooltip":"",
+  "SpellDescription":"Your offensive Druid spell casts have a chance to cast an additional random Druid spell for free.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978237",
+  "SpellID":"978237",
+  "SpellName":"Beast and Blade",
+  "SpellTooltip":"Your combo point generating rogue abilities grant your tamed pet a stack of Blade Beast, increasing your tamed pet's damage by 5% and reducing their damage taken by 5%. Stacks up to 5.
+
+Hemorrhage grants Blood Focus. Causing you to gain 5 energy when your tamed pet deals damage with a special attack.
+
+Your damaging rogue finisher moves have a 20% chance per combo point to cause your tamed pet’s next 2 special attacks to deal 50% more damage. Additionally, you have a 20% chance per combo point to grant a stack of Plan of Attack. Stacks up to 3.
+
+Dispatch consumes all stacks of Plan of Attack and grants Double Team. increasing your tamed pet's special attack damage by 80% per stack consumed for 5 seconds.
+
+Double Team and Beastly Follow cannot trigger simultaneously.",
+  "SpellDescription":"Your combo point generating rogue abilities grant your tamed pet a stack of Blade Beast, increasing your tamed pet's damage by 5% and reducing their damage taken by 5%. Stacks up to 5.
+
+Hemorrhage grants Blood Focus. Causing you to gain 5 energy when your tamed pet deals damage with a special attack.
+
+Your damaging rogue finisher moves have a 20% chance per combo point to cause your tamed pet’s next 2 special attacks to deal 50% more damage. Additionally, you have a 20% chance per combo point to grant a stack of Plan of Attack. Stacks up to 3.
+
+Dispatch consumes all stacks of Plan of Attack and grants Double Team. increasing your tamed pet's special attack damage by 80% per stack consumed for 5 seconds.
+
+Double Team and Beastly Follow cannot trigger simultaneously.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978234",
+  "SpellID":"978234",
+  "SpellName":"Disciple of the Tides",
+  "SpellTooltip":"Chain Heal no longer consumes your Riptide.
+
+Your Shaman Critical Heals reduce the active cooldown of your penance by 1 second and grant you a stack of Disciple of the Tides. Disciple of the Tides increases the damage or healing of your next Penance by 5% of your healing power per stack. Stacks up to 5.
+
+Your Penance strikes grant you a charge of Tidal Swell. You can store 5 charges of Tidal Swell at a time.
+
+Lesser Healing Wave also teaches you Tidal Shield. Tidal Shield heals your target and applies an absorb shield for 5 seconds for 50% of the healing done(10% for full overheal). Additional casts will increase the absorb effect up to 35% of your targets max health. Requires a charge of Tidal Swell to cast.",
+  "SpellDescription":"Chain Heal no longer consumes your Riptide.
+
+Your Shaman Critical Heals reduce the active cooldown of your penance by 1 second and grant you a stack of Disciple of the Tides. Disciple of the Tides increases the damage or healing of your next Penance by 5% of your healing power per stack. Stacks up to 5.
+
+Your Penance strikes grant you a charge of Tidal Swell. You can store 5 charges of Tidal Swell at a time.
+
+Lesser Healing Wave also teaches you Tidal Shield. Tidal Shield heals your target and applies an absorb shield for 5 seconds for 50% of the healing done (10% for full overheal). Additional casts will increase the absorb effect up to 35% of your targets max health. Requires a charge of Tidal Swell to cast.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965501",
+  "SpellID":"965501",
+  "SpellName":"Deathbringer",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to drain the life force of your target, dealing additional Shadow damage and returning a portion of it to you. This effect scales with your Drain Life ability. This effect cannot occur more than once every 4.5 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965503",
+  "SpellID":"965503",
+  "SpellName":"Spell Slinger",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to strike your opponent with arcane magic, dealing additional Arcane damage and triggering the Clearcasting effect.  This effect cannot occur more than once every 10 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84752",
+  "SpellID":"84752",
+  "SpellName":"Martial Crescendo",
+  "SpellTooltip":"",
+  "SpellDescription":"Each unique direct damage Physical ability grants you a stack of Martial Crescendo, increasing your Attack Speed by $84753s1%, stacking 10 times. Any Non-physical damage resets all stacks.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81520",
+  "SpellID":"81520",
+  "SpellName":"Growing Light",
+  "SpellTooltip":"When cast on your Beacon of Light, Holy Light radiates outward, healing up to 5 friendly targets within 8 yards of the Beacon for an additional 20%. It also infuses you with Light, increasing the healing transferred to your Beacon of Light by an additional 20% for 6 seconds, stacking up to 3 times.
+
+Casting Holy Light on your Beacon of Light also extends the its duration by 10 seconds and reduces the targets physical damage taken by 10% for 10 seconds. This effect does not stack with other similar effects.",
+  "SpellDescription":"When cast on your Beacon of Light, Holy Light radiates outward, healing up to 5 friendly targets within 8 yards of the Beacon for an additional 20%. It also infuses you with Growing Light, increasing the healing transferred to your Beacon of Light by an additional 20% for 6 seconds, stacking up to 3 times.
+
+Casting Holy Light on your Beacon of Light also extends the its duration by 10 seconds and reduces the targets physical damage taken by 10% for 10 seconds. This effect does not stack with other similar effects.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"953308",
+  "SpellID":"953308",
+  "SpellName":"Evoker",
+  "SpellTooltip":"",
+  "SpellDescription":"Casting Arcane Missiles while Missile Barrage is active increases the chance to proc your next Brain Freeze by 60%.
+
+Casting Fireball while Brain Freeze is active increases the chance to proc your next Missile Barrage by 60%.
+
+Consuming these effects grant you a stack of Evoker which decreases the cast time of Frostbolt by 3% and causes Frostbolt casts to increase the damage of your Fireball and Arcane Missiles by 3% and the critical strike chance by 3%. Both effects stack up to 5 times and last for 10 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977870",
+  "SpellID":"977870",
+  "SpellName":"Mana Fiend",
+  "SpellTooltip":"",
+  "SpellDescription":"Increases your Intellect by 15% and makes your Arcane direct damage spells and abilities replace your next melee auto-attack with an attack that consumes mana to deal Arcane damage.
+
+Dealing damage this way has a 50% chance to make you go into a Mana-crazed Delirium, increasing your spell damage by 10% of your Intellect, stacking up every second. While active your Arcane spells cost no mana, but maintaining the effect prevents you from gaining mana from other sources and drains your mana every second which increases the longer you are in Delirium. 
+
+When you drop below 20% mana the Delirium ends. Most of the mana drained is restored to you over 12 seconds as you come back to your senses.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977864",
+  "SpellID":"977864",
+  "SpellName":"Demolisher",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Mortal Strike is transformed into Demolishing Strike, an ability that deals 150% weapon damage and scales with Mortal Strike modifiers. In addition, it demolishes the target's defenses, increasing the physical damage they take from your attacks by 1%. Demolish stacks up every time the target is critically hit in melee, and upon reaching 10 stacks empowers your next ability:
+
+Expose Armor: Reduces the targets' armor by a flat amount and increases your armor penetration by 20% for 20 seconds.
+
+Riposte: Generates 2 additional combo points and slows the targets attack speed by an additional 10%.
+
+Mongoose Bite: Doesn't trigger its cooldown and is guaranteed to critically strike and deal 50% increased damage.
+
+Demolishing Strike doesn't trigger Single-Minded Fury.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81116",
+  "SpellID":"81116",
+  "SpellName":"Eldritch Knight",
+  "SpellTooltip":"Your successful melee hits generate mana.",
+  "SpellDescription":"Your successful melee hits generate mana.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977717",
+  "SpellID":"977717",
+  "SpellName":"Primordial Fury",
+  "SpellTooltip":"",
+  "SpellDescription":"During Shamanistic Rage your non-periodic spell and Shaman ability criticals consume 50 rage to deal extra Elemental damage and empower you with Primordial Fury, increasing your spell damage by 40% of your Agility for 15 seconds.
+
+Elemental damage is a combination of the Nature, Fire and Frost schools, and will benefit from the highest modifier to either of these schools.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977700",
+  "SpellID":"977700",
+  "SpellName":"Heavyweight",
+  "SpellTooltip":"",
+  "SpellDescription":"Dealing weapon damage with any Warrior attack reduces your attack speed by 5% but increases your physical damage by 2%, stacking up to 5 times. Normal auto attacks reset this effect.
+
+If you reach five stacks, your next melee swing will crush targets in front of you, dealing 110% unnormalized weapon damage. This damage is tripled and always crits against non-players, but can't crit against players.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81399",
+  "SpellID":"81399",
+  "SpellName":"Plague Bearer",
+  "SpellTooltip":"",
+  "SpellDescription":"Teaches you Festering Strike if you know Bear Form. Festering Strike inflicts Infected Blood, dealing damage every 3 seconds for 15 seconds. Your Mangle (Bear) now applies Rabies, increasing the Physical damage your target takes when hit and increasing the damage the target takes from your Bear abilities. This effect lasts 15 seconds. In addition, your Swipe (Bear) now spreads Infected Blood and Rabies to all targets hit.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977727",
+  "SpellID":"977727",
+  "SpellName":"Crimson Champion",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Holy Shield is transformed into Holy Shield (Crimson Champion), an ability that permanently increases your chance to block by 10% and deals Holy damage when blocking an attack. This damage can only occur once per second and grants a charge each time you block an attack. Three charges are consumed to empower your next ability:
+
+Shield Slam and Shield of Righteousness - Deals Holy damage to up to five nearby enemies.
+
+Avenger's Shield - Increases your block value by 15% and threat by 10% for 10 seconds.
+
+Power Word: Shield - Reduces all damage taken by 50% for 5 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965502",
+  "SpellID":"965502",
+  "SpellName":"Righteous Zealot",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to Smite your target, dealing additional Holy damage and healing nearby party members for a small amount. This effect scales with your Smite ability. Damage reduced by 80% against players. This effect cannot occur more than once every 4.5 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"986033",
+  "SpellID":"986033",
+  "SpellName":"Prayer of Preservation",
+  "SpellTooltip":"",
+  "SpellDescription":"Transforms your Prayer of Healing into a channeled healing spell that when placed reduces the damage all allies inside the effect take from area of effect attacks by 30% and heals up to five low health allies every second. The final heal is extra powerful. The heal scales with modifiers to Prayer of Healing.
+
+In addition, Prayer of Preservation grants a buff to its targets giving your next direct heal on that target 20% increased critical effect chance, making it trigger an additional heal and reduce the cooldown of your Prayer of Preservation by 3 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977824",
+  "SpellID":"977824",
+  "SpellName":"Twilight Paragon",
+  "SpellTooltip":"",
+  "SpellDescription":"Dealing damage with Smite and Holy Fire grants you Paragon of Light, increasing your critical strike chance by 1%, stacking up to 10 times. But darkness lurks within...
+
+Casting Exorcism reveals your true form, consuming the stacks to inflict massive Twilight damage and making you a Paragon of Darkness for 1 second per stack consumed. While active your Mind Flay is empowered and deals additional Twilight damage.
+
+Twilight damage is a combination of the Shadow and Holy schools, and will benefit from the highest modifier to either school.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965858",
+  "SpellID":"965858",
+  "SpellName":"Holy Ascension",
+  "SpellTooltip":"",
+  "SpellDescription":"Reduces the cooldown of your Holy Fire by 3 seconds. After casting Holy Fire your next spell is empowered:
+
+Smite: Deals 50% (20% to players) additional damage.
+
+Exorcism: Increases all Holy damage you deal to the target by 5% for 15 seconds.
+
+Holy Shock: Guaranteed to critically strike and increases its healing done by 20% and its damage done by 20% versus monsters.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965505",
+  "SpellID":"965505",
+  "SpellName":"Harbinger of Flame",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to ignite enemies, dealing Fire damage to your target and enemies within 8 yards and setting them ablaze, dealing additional Fire damage over 4 seconds and increasing your Fire damage done to the targets by 3%. This effect cannot occur more than once every 5 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965504",
+  "SpellID":"965504",
+  "SpellName":"Frost Lich",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to chill your target, dealing Frost damage and slowing the target by 50% for 4 seconds. This effect cannot occur more than once every 9 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965334",
+  "SpellID":"965334",
+  "SpellName":"Assuaging Shadows",
+  "SpellTooltip":"",
+  "SpellDescription":"Shadow Dance now triggers a Shadow Nova which slows all targets within 8 yards by 80% for 3 sec and applies 5 Shadow Marks (2 on players) to them for 8 sec. When you Ambush a marked target your Shadowstep cooldown is refreshed, a Shadow Mark stack is removed, and you gain Shadow's Embrace. Shadow's Embrace increases all damage you deal by 4%, stacking up to 5 times, and lasts 15 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965862",
+  "SpellID":"965862",
+  "SpellName":"Blademaster",
+  "SpellTooltip":"",
+  "SpellDescription":"After parrying an attack you become a Blademaster, increasing your expertise rating by 15% of your Strength for 10 seconds. While active, your abilities become empowered: 
+
+Devastate: Deals 50% additional damage to all nearby enemies and reduces the target's armor by an additional 10% for 5 seconds. 
+
+Riposte: Increases the damage staggered by Tactical Mastery capstone by an additional 20% for 5 seconds.
+
+Divine Storm: Increases your Armor by 200% of your Strength for 5 seconds.
+
+Blademaster can only proc every 3rd parry.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977802",
+  "SpellID":"977802",
+  "SpellName":"Predator's Wrath",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Predatory Strikes effect now lets you cast Wrath without leaving Cat Form. Wraths cast this way are unable to miss, but its damage is increased by 12% of your attack power. In addition, they will also restore 30 energy and 15% of your base mana, and gives you Predator's Wrath. Predator's Wrath causes all your Cat Form abilities to deal additional Nature damage, this effect lasts for 6 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965937",
+  "SpellID":"965937",
+  "SpellName":"Seed of Life",
+  "SpellTooltip":"",
+  "SpellDescription":"Your periodic heals from Regrowth and Rejuvenation plant a Seed of Life in the target, healing them each second for 4 seconds and stacking up to 8 times. Upon reaching 8 stacks the seed blooms and heals the target and up to 5 nearby allies.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"986008",
+  "SpellID":"986008",
+  "SpellName":"Carnage Incarnate",
+  "SpellTooltip":"",
+  "SpellDescription":"Transforms your Rend into Rend (Carnage), which is usable in Bear Form. 
+
+Taste for Blood now empowers your next Swipe to generate additional threat and draw blood from all enemies hit, stacking up to 12 times. Rend (Carnage) ticks also have a chance to draw blood. If you get hit below 50% health, you will consume some of this blood to heal yourself. This effect can only occur once every 10 seconds.
+
+If you reach max stacks you become Carnage Incarnate, encasing yourself in a shield of your enemies' blood and bones that protect you from damage, heal you and damage all nearby enemies.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977810",
+  "SpellID":"977810",
+  "SpellName":"Fury of the Titans",
+  "SpellTooltip":"",
+  "SpellDescription":"Your maximum rage is increased to 300. 
+
+You learn Titanic Strike, a finishing move that strikes with both of your weapons. 
+
+When used at full rage, Titanic Strike makes you enter a Titanic Fury, increasing your physical damage dealt with all attacks by 20%, removing all rage costs and making your auto-attacks generate Combo Points for 12 seconds. When this effect ends, your rage is lost. Requires Titan's Grip.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954077",
+  "SpellID":"954077",
+  "SpellName":"Guerilla Trapper",
+  "SpellTooltip":"",
+  "SpellDescription":"Teaches you a Barbed Snare Trap, which can be deployed from a distance. This trap slows and applies a bleed effect to the target.
+
+Your Concussive Shot now also attaches a rope to enemy targets. If the target is a player it pulls them toward you after a 2 second delay.
+
+If you lure an enemy afflicted by your Concussive Shot into your Barbed Snare Trap they will be stunned for 3 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965311",
+  "SpellID":"965311",
+  "SpellName":"Endless Agony",
+  "SpellTooltip":"",
+  "SpellDescription":"Each time your Curse of Agony ability deals damage it increases the damage the target takes from your Curse of Agony ability by 3%. Stacks 50 times. In addition, for 12 seconds after dealing damage with Mind Blast or Shadow Word: Death your Shadow spell casts increase the duration of your Curse of Agony by 1 second.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978231",
+  "SpellID":"978231",
+  "SpellName":"Elemental Destruction",
+  "SpellTooltip":"Lightning Bolt is transformed into Energy Bolt, dealing Firestorm damage and generating combo points.
+
+Immolate is transformed into Elemental Immolation, a Warlock finishing move which deals increased damage based on the combo spent, which can be consumed by Conflagrate.
+
+Flame Shock and Elemental Immolation periodic damage, increase your active Immolate's damage by $978671s1%, stacking up to $978671u times. Casting Elemental Immolation resets all stacks of Elemental Destruction.",
+  "SpellDescription":"Lightning Bolt is transformed into Energy Bolt, dealing Firestorm damage and generating combo points.
+
+Immolate is transformed into Elemental Immolation, a Warlock finishing move which deals increased damage based on the combo spent, which can be consumed by Conflagrate.
+
+Flame Shock and Elemental Immolation periodic damage, increase your active Immolate's damage by $978671s1%, stacking up to $978671u times. Casting Elemental Immolation resets all stacks of Elemental Destruction.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965301",
+  "SpellID":"965301",
+  "SpellName":"Festering Wound",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Mutilate criticals increase the damage the target takes from your Nature Spells and Abilities by 2% for 12 seconds. This effect stacks 10 times. Mutilate critical strikes also restore 15 energy.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965299",
+  "SpellID":"965299",
+  "SpellName":"Shadow Visions",
+  "SpellTooltip":"",
+  "SpellDescription":"Dealing damage with Mind Flay grants you a Soul Fragment. Soul Fragments grant you 1% increased casting speed for 12 sec, stacking up to 9 times. Upon reaching 9 stacks you gain Shadow Visions for the next 8 sec. Shadow Visions empowers your next ability:
+
+Shadow Word: Pain - Afflicts up to 4 additional nearby enemies. Costs no mana.
+
+Mind Blast - Causes the target to take 5% more Shadow damage from you for 10 seconds.
+
+Devouring Plague - Reduces the periodic interval by 33%.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"832617",
+  "SpellID":"832617",
+  "SpellName":"Astral Storm",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Thunderstorm is transformed into Astral Storm, a single-target spell dealing Astral damage. This spell is castable while moving and benefits from modifiers to Thunderstorm.
+
+Astral Storm forcefully knocks players back. If cast on a player afflicted by your Unrelenting Storm it will knock their soul out of their body, reducing their damage and healing by 20%, and forcing your target and yourself into an alternate dimension for 8 seconds.
+
+Astral damage is a combination of the Arcane and Nature schools, and will benefit from the highest modifier to either school.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81190",
+  "SpellID":"81190",
+  "SpellName":"Holy Supernova",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Holy Nova is transformed into Holy Supernova, giving it a 45 second cooldown, a knock back effect on enemies, and a cleanse effect for allies.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965305",
+  "SpellID":"965305",
+  "SpellName":"Booming Thunder",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging Lightning Bolt and Chain Lightning spells grant you a stack of Booming Thunder, stacking up to 20 times. Each stack empowers your Earth Shock, increasing its damage by 15% (6% to players) and critical strike chance by 3%.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965295",
+  "SpellID":"965295",
+  "SpellName":"Consecrated Strikes",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Crusader Strike, Divine Storm and Hammer of the Righteous abilities have a chance to consecrate the ground beneath your feet. Consecrated Ground deals Holy damage every second to your enemies, increases the Strength of your allies by 5% and increases your Strength by 10% and your spell damage by 30% of your Strength.
+
+Consecrated Ground will also imbue your weapon with pure light, giving your melee abilities a chance to deal additional physical damage. This damage can trigger your Seal of Command. Does not stack with other temporary weapon enchants.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965293",
+  "SpellID":"965293",
+  "SpellName":"Flame On!",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging Fireball, Scorch, and Flamestrike casts increase the critical strike chance by 33% and the damage done by 15% (5% to players) of your next Fire Blast for 8 seconds, stacking up to 3 times. In addition, increases the range of your Fire Blast by 5 yards.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965294",
+  "SpellID":"965294",
+  "SpellName":"Ice Barrage",
+  "SpellTooltip":"",
+  "SpellDescription":"Your successful Frostbolt casts have a 15% chance to launch an Ice Lance at the target and you gain a 5% increased chance to trigger your Fingers of Frost effect. Also, your Ice Lance deals 50% more damage on frozen targets higher level than you. 
+
+Requires level 60 to trigger the Ice Lance.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"101086",
+  "SpellID":"101086",
+  "SpellName":"Felborne",
+  "SpellTooltip":"You are infused with fel power. When you deal damage you have a chance to call down a fel meteor to the target area, dealing Chaos damage and increasing your chance to score a critical strike on targets hit by 5% for 8 seconds.",
+  "SpellDescription":"You are infused with fel power. When you deal damage you have a chance to call down a fel meteor to the target area, dealing Chaos damage and increasing your chance to score a critical strike on targets hit by 5% for 8 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965292",
+  "SpellID":"965292",
+  "SpellName":"Deadly Bite",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Mongoose Bite and Counterattack abilities applies a bleed effect to the target for 12 seconds which stacks 5 times. This effect also increases the damage the target takes from your Raptor Strike by 15%.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978208",
+  "SpellID":"978208",
+  "SpellName":"Fingers of Death",
+  "SpellTooltip":"Your Fingers of Frost now also grants 2 stacks of Fingers of Death for 10 seconds, which causes your next Ice Lance to also launch a Shadow Lance.
+
+Shadow Lance hits grants a stack of Touch of Death 10 seconds, which increases the damage of your next Vampiric Touch by 100%, stacking 2 times.
+
+In addition, your Frostbolt now applies Dark Winter to the target for 15 seconds, stacking 3 times, causing you to deal 3% increased periodic Shadow damage to the target.",
+  "SpellDescription":"Your Fingers of Frost now also grants 2 stacks of Fingers of Death for 15 seconds, which causes your next Ice Lance to also launch a Shadow Lance.
+
+Shadow Lance hits grants a stack of Touch of Death 15 seconds, which increases the damage of your next Vampiric Touch by 75%, stacking 2 times.
+
+In addition, your Frostbolt now applies Dark Winter to the target for 15 seconds, stacking 3 times, causing you to deal 3% increased periodic Shadow damage to the target.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965307",
+  "SpellID":"965307",
+  "SpellName":"Molten Earth",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Lava Lashes increase your bonus spell damage by 10% of your attack power and leave a patch of fire on the ground which deals fire damage to all enemies within. This effect scales with your Fire Nova ability.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965313",
+  "SpellID":"965313",
+  "SpellName":"Demonic Influence",
+  "SpellTooltip":"",
+  "SpellDescription":"After entering Metamorphosis your summoned demons deal 100% (50% against players) additional damage and they generate 3000 mana over 30 seconds. In addition your Metamorphosis cooldown is reduced by 50%, but the bonus damage granted by your Metamorphosis is reduced by 10%, the bonus armor is reduced to 90%, and you no longer benefit from reduced chance to be crit or reduced duration of stuns and snares.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"414080",
+  "SpellID":"414080",
+  "SpellName":"Consumed by Fire",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Soul Fire can trigger Hot Streak. 
+
+When your Pyroblast deals damage it refreshes the duration of your Corruption. Decimation now also increases the damage of your Pyroblast by 50% against monsters. In addition, your Immolate now triggers Backdraft.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965337",
+  "SpellID":"965337",
+  "SpellName":"Warcry",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Battle Shout also increases your melee and ranged critical strike chance by 100% for 4 seconds. This effect has a 2 minute cooldown.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954252",
+  "SpellID":"954252",
+  "SpellName":"Dragon Warrior",
+  "SpellTooltip":"",
+  "SpellDescription":"Death Wish is transformed into Dragon Roar which slows nearby enemies for 2 sec and deals armor-piercing damage. Also increases your physical damage done by 15% (10% vs players) for 10 seconds.
+
+Your Bloodthirst and Execute hits empower your next Slam to be instant cast and trigger Dragon Fury, dealing weapon damage, reduces the cooldown of your Dragon Roar by 5 seconds, and increases the damage of your next Dragon Roar by 25%, stacking up to 3 times. On 3 stacks, your Dragon Roar also stuns nearby enemies for 2 sec.
+
+If you know Intercept you also learn Dragon Charge, which propels you forward at 100% increased speed for up to 2 seconds or until you impact with an enemy and increases your physical damage done by 15% (10% vs players) for 5 sec. Upon impact you deal Fire damage in front of you.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965309",
+  "SpellID":"965309",
+  "SpellName":"Mending Tide",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Riptides create a healing effect at the feet of the target ally. All allies standing within will be healed every 2 seconds for 6 seconds, and Chain Heals cast on these targets will be 15% more powerful.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81448",
+  "SpellID":"81448",
+  "SpellName":"Aimed Explosive Shot",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Explosive Shot is transformed into Explosive Shot (Aimed), making it a targeted spell and giving it an area of effect application.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954262",
+  "SpellID":"954262",
+  "SpellName":"Frost Bomb",
+  "SpellTooltip":"",
+  "SpellDescription":"You learn Frost Bomb, a 1.5 sec cast time spell which places a Frost Bomb on the target for 6 sec. Casting Frostbolt at target affected by your Frost Bomb will trigger a release of a wave of freezing ice, dealing Frost damage and slowing the target and all other enemies within 10 yards by 30%.
+
+When the effect ends or is dispelled, another stronger wave will release, dealing increased damage and reducing enemy movement speed by 60%, and grants 1% haste for each enemy hit for 6 sec, stacking up to 10 times.
+
+Casting Frost Bomb triggers the Flash Freeze talent. Its cooldown is reduced by the Cold as Ice talent. Its range is increased by the Arctic Reach talent.
+
+Frost Bomb can't be reflected.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81298",
+  "SpellID":"81298",
+  "SpellName":"Righteous Flames",
+  "SpellTooltip":"",
+  "SpellDescription":"Your non-periodic Fire damage is increased by 1% for each charge of Inner Fire but the charges granted by your Inner Fire is reduced by 50%. Dealing non-periodic Fire damage consumes a charge of Inner Fire.
+
+Consuming a charge this way will grant a stack of Righteous Flames, increasing the damage of your next Holy Fire by 10% (4% vs players), stacking up to 5 times.
+
+Upon reaching max stacks, your next Holy Fire will deal Radiant Damage to 5 targets within 8 yards and restore your Inner Fire to max charges. Additionally, your next 3 Fire Spells increase the duration of Holy Fire (Righteous Flames) by 1 second.
+
+Radiant damage is a combination of the Fire and Holy schools, and will benefit from the highest modifier to either school.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965315",
+  "SpellID":"965315",
+  "SpellName":"Wild Felfire",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Chaos Bolt spawns a Rain of Fire like effect above the target. Every time it deals damage you gain 1% spell haste for 5 sec, stacking up to 10 times. In addition, your Chaos Bolt has a 10% increased chance to critically strike and will dispel player casted absorbs on the target hit.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"417700",
+  "SpellID":"417700",
+  "SpellName":"Lava Sweep",
+  "SpellTooltip":"Your Lava Lash is transformed into Lava Sweep only usable with a two-handed weapon dealing 90% weapon damage to all targets in front of you increased by 50% to the main target if imbued with Flametongue.
+
+Fire Nova increases your Spell Damage by 15% of your Attack Power for 15 seconds and dealing damage with Lava Sweep or Fire Blast adds a stack of Eruption, increasing the critical strike chance of Fireblast and Pyroblast by 5%, stacking 5 times. Once fully stacked, Pyroblast will consume all stacks and reset the cooldown of your next Lava Sweep causing it to have no cooldown and deal 40% more damage to your target.
+
+For 8 seconds after using Lava Sweep, Pyroblast, Fire Blast and Flame Shock gain additional scaling and restore mana based on your attack power and trigger a stack of Maelstrom Weapon.",
+  "SpellDescription":"Your Lava Lash is transformed into Lava Sweep only usable with a two-handed weapon dealing 80% weapon damage to all targets in front of you increased by 50% to the main target if imbued with Flametongue.
+
+Fire Nova increases your Spell Damage by 15% of your Attack Power for 15 seconds and dealing damage with Lava Sweep or Fire Blast adds a stack of Eruption, increasing the critical strike chance of Fireblast and Pyroblast by 4%, stacking 5 times. Once fully stacked, Pyroblast will consume all stacks and reset the cooldown of your next Lava Sweep causing it to have no cooldown and deal 40% more damage to your target.
+
+For 8 seconds after using Lava Sweep, Pyroblast, Fire Blast and Flame Shock gain additional scaling and restore mana based on your attack power and trigger a stack of Maelstrom Weapon.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978232",
+  "SpellID":"978232",
+  "SpellName":"Wind Rager",
+  "SpellTooltip":"Stormstrike is transformed into Wind Strike, costing 40 energy and dealing physical damaged based on attack power. Wind Strike criticals reset the cooldown of your Whirlwind.
+
+Your Whirlwind gives a stack of Rising Winds for each target hit, increasing your attack speed by 2% and the damage of your Wind Strike by 2% for 10 seconds. Stacks up to 10 times.
+
+Reaching full stacks of Rising Winds creates a Rampant Tornado, dealing Nature damage to nearby enemies every second and increasing your attack speed by 20% and Wind Strike damage by 20% for 4 seconds.",
+  "SpellDescription":"Stormstrike is transformed into Wind Strike, costing 40 energy and dealing physical damaged based on attack power. Wind Strike criticals reset the cooldown of your Whirlwind.
+
+Your Whirlwind gives a stack of Rising Winds for each target hit, increasing the damage of your Wind Strike by 2% for 10 seconds. Stacks up to 15 times.
+
+Reaching full stacks of Rising Winds creates a Rampant Tornado, dealing Nature damage to nearby enemies every second and increasing your attack speed by 20% and Wind Strike damage by 30% for 4 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965283",
+  "SpellID":"965283",
+  "SpellName":"Nature's Fervor",
+  "SpellTooltip":"",
+  "SpellDescription":"When you fully apply Lacerate to a target, your next Feral ability becomes empowered:
+
+Mangle (Bear): Reduces the target's armor by 20% for 12 seconds.
+
+Faerie Fire (Feral): Reduces your physical damage taken by 10% for 8 seconds.
+
+Lacerate: Next application deals 75% increased direct damage and 100% increased threat.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84515",
+  "SpellID":"84515",
+  "SpellName":"Seething Flames",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to ignite enemies, dealing Fire damage to your target and his nearby allies over time. This effect scales with your Explosive Shot ability.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978226",
+  "SpellID":"978226",
+  "SpellName":"Knight of the Eclipse",
+  "SpellTooltip":"Sinister Strike is transformed into Eclipse Strike. Deals Astral Damage, scales from spell power and reduces the cast time of your next Wrath or Starfire spell by 45%, stacking up to 2. Additionally, this spell can trigger your next available Eclipse Phase.
+
+Eclipse Strike empowers your next Starfire during Lunar Eclipse and empowers your next Wrath during Solar Eclipse, increasing their damage by 60% and 12% of your attack power, stacking up to 2 times. Casting an empowered Wrath or Starfire grants you Astral Attunement.
+
+Eviscerate is transformed into Solar Strike. Deals Astral damage and has a 20% chance per combo point to apply Solar Burn to your target. Solar Burn deals Astral damage over 9 seconds and scales with modifiers to your Moonfire ability.
+
+Starfall is transformed into Knightfall. While Knightfall is active your Solar Strike will trigger 0.6 seconds of Starfall per combo point spent. This Starfall effect strikes enemies within 8 yards of you and deals significantly increased damage while you have Astral Attunement.",
+  "SpellDescription":"Sinister Strike is transformed into Eclipse Strike. Deals Astral Damage, scales from spell power and reduces the cast time of your next Wrath or Starfire spell by 50%, stacking up to 2. Additionally, this spell can trigger your next available Eclipse Phase.
+
+Eclipse Strike empowers your next Starfire during Lunar Eclipse and empowers your next Wrath during Solar Eclipse, increasing their damage by 45% and 12% of your attack power, stacking up to 2 times. Casting an empowered Wrath or Starfire grants you Astral Attunement.
+
+Eviscerate is transformed into Solar Strike. Deals Astral damage and has a 20% chance per combo point to apply Solar Burn to your target. Solar Burn deals Astral damage over 9 seconds and scales with modifiers to your Moonfire ability.
+
+Starfall is transformed into Knightfall. While Knightfall is active your Solar Strike will trigger 0.6 seconds of Starfall per combo point spent. This Starfall effect strikes enemies within 8 yards of you and deals significantly increased damage while you have Astral Attunement.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84512",
+  "SpellID":"84512",
+  "SpellName":"Amal'thazad's Curse",
+  "SpellTooltip":"",
+  "SpellDescription":"Your damaging abilities have a chance to call forth Amal'thazad's Curse on your target, and granting you 1% critical strike chance, stacking 5 times. Amal'thazad's Curse chills and deals Frost damage to your target and chills enemies near the target, reducing their movement speed by 5%, stacking 5 times.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81407",
+  "SpellID":"81407",
+  "SpellName":"Controlled Burn",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Chaos Bolt increases the duration of your Immolate by 6 seconds and causes your next Conflagrate to not consume Immolate. In addition, your Scorch on Conflagrated targets deal additional damage.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"956445",
+  "SpellID":"956445",
+  "SpellName":"Paratrooper",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Disengage now launches you higher into the air and activates a Combat Parachute. While airborne, the high vantage point increases the critical strike chance of your Hunter shots by 50%. When the parachute is detached you gain 80% ranged attack speed for 6 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81467",
+  "SpellID":"81467",
+  "SpellName":"Guardians of the Grove",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Treants now heal your allies instead of dealing damage. These Treants will not heal you if you are above 90%. But have their health reduced by 66%.
+
+Your treants will use your known Druid healing spells except for Tranqulity.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965288",
+  "SpellID":"965288",
+  "SpellName":"Unrelenting Wrath",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Hunter ability critical strikes have a chance to cause your tamed pet to enrage, increasing its damage by 30% for 5 seconds. Also increases the duration of your Bestial Wrath and The Beast Within by 2 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978227",
+  "SpellID":"978227",
+  "SpellName":"Arcane Gunslinger",
+  "SpellTooltip":"Aimed Shot is transformed into Arcane Bullet, dealing massive Arcane Damage but having an increased cooldown. Your Arcane Missiles reduce the active cooldown of Arcane Bullet by 3 seconds.
+
+Missile Barrage allows you to weave shot and spell together, firing a barrage of lesser Arcane Shots with each Arcane Missile.
+
+Arcane Shot increases the damage your target takes from your Arcane Barrage by 10% and Arcane Bullet by 50%. This effect stacks up to 5 times.
+
+Your Auto Shot and Arcane Shot grant you a stack of Arcane Gunslinger, granting Arcane Barrage 20% increased damage and an additional 20% chance to trigger Missile Barrage. This effect stacks up to 5 times and requires the final rank of Missile Barrage. Triggering Missile Barrage resets all stacks. Auto Shot can only trigger this effect every 2 seconds.",
+  "SpellDescription":"Aimed Shot is transformed into Arcane Bullet, dealing massive Arcane Damage but having an increased cooldown. Your Arcane Missiles reduce the active cooldown of Arcane Bullet by 3 seconds.
+
+Missile Barrage allows you to weave shot and spell together, firing a barrage of lesser Arcane Shots with each Arcane Missile.
+
+Arcane Shot increases the damage your target takes from your Arcane Barrage by 10% and Arcane Bullet by 50%. This effect stacks up to 5 times.
+
+Your Auto Shot and Arcane Shot grant you a stack of Arcane Gunslinger, granting Arcane Barrage 20% increased damage and an additional 20% chance to trigger Missile Barrage. This effect stacks up to 5 times and requires the final rank of Missile Barrage. Triggering Missile Barrage resets all stacks. Auto Shot can only trigger this effect every 2 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965445",
+  "SpellID":"965445",
+  "SpellName":"Whispers of the Old Gods",
+  "SpellTooltip":"",
+  "SpellDescription":"Damage from your Shadow Word: Pain spell has a chance to summon a Tentacle of the Old Gods which will wreak havoc on your enemies and increase your spell damage by 15% of your Spirit.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84529",
+  "SpellID":"84529",
+  "SpellName":"Crazy Cultist",
+  "SpellTooltip":"",
+  "SpellDescription":"Your offensive Warlock spell casts have a chance to cast an additional random Warlock spell for free.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965282",
+  "SpellID":"965282",
+  "SpellName":"Total Eclipse",
+  "SpellTooltip":"",
+  "SpellDescription":"Gaining Eclipse triggers your Owlkin Frenzy rank 3 talent and makes your next Wrath or Starfire apply an additional effect:
+
+After gaining Solar Eclipse, your next Wrath deals 10% increased damage and apply Entangling Roots for 6 sec to players or Insect Swarm to monsters. This Entangling Roots effect does not trigger any additional effects.
+
+After gaining Lunar Eclipse, your next Starfire has 10% increased crit chance and apply a 2 second stun to players or Moonfire to monsters.
+
+You must know Insect Swarm and Moonfire in order to trigger them.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84527",
+  "SpellID":"84527",
+  "SpellName":"Zany Zealot",
+  "SpellTooltip":"",
+  "SpellDescription":"Your offensive Priest spell casts have a chance to cast an additional random Priest spell for free.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81119",
+  "SpellID":"81119",
+  "SpellName":"Overheating",
+  "SpellTooltip":"",
+  "SpellDescription":"Your melee abilities inflict additional Fire damage and apply a stack of Overheating to your target. 
+
+Your Fire Mage spell cause Heat Stroke on targets inflicted with 3 stack of Overheating, dealing Fire damage and reducing their movement speed by $81121s2%.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978217",
+  "SpellID":"978217",
+  "SpellName":"Hoplite",
+  "SpellTooltip":"Allows the use of Polearm and Shield. 
+
+You gain Hoplite Training. This aggressive fighting style removes the damage reduction and threat increase from Defensive Stance, but reduces your chance to dodge, block and parry. Casting Taunt will disable Hoplite Training for 10 seconds, but Taunt’s cooldown is increased by 60 seconds.
+
+Sinister Strike is transformed into Thrust, requiring a Polearm and gaining bonus damage from your attack power.
+
+Shield Slam is transformed into Shield Strike. This finishing move deals damage based on combo points and reduces the active cooldown of your Bloodrage by 2 seconds per combo point.
+
+While Bloodrage is active, your Thrust applies a stack of Phalanx Strike. Phalanx Strike increases the damage of Thrust by 10% and reduces the energy cost by 3. Stacks up to 10. You lose all stacks of Phalanx Strike when your Bloodrage expires or is refreshed. Requires Defensive Stance.
+
+Effects that do not work with Titan’s Grip do not work with Hoplite.",
+  "SpellDescription":"Allows the use of Polearm and Shield. 
+
+You gain Hoplite Training. This aggressive fighting style removes the damage reduction from Defensive Stance and threat increase from all tank stances/forms, but reduces your chance to dodge, block and parry. Casting Taunt will disable Hoplite Training for 10 seconds, but Taunt’s cooldown is increased by 60 seconds.
+
+Sinister Strike is transformed into Thrust, requiring a Polearm and gaining bonus damage from your attack power.
+
+Shield Slam is transformed into Shield Strike. This finishing move deals damage based on combo points and reduces the active cooldown of your Bloodrage by 2 seconds per combo point.
+
+While Bloodrage is active, your Thrust applies a stack of Phalanx Strike. Phalanx Strike increases the damage of Thrust by 10% and reduces the energy cost by 3. Stacks up to 10. You lose all stacks of Phalanx Strike when your Bloodrage expires or is refreshed. Requires Defensive Stance.
+
+Effects that do not work with Titan’s Grip do not work with Hoplite.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954074",
+  "SpellID":"954074",
+  "SpellName":"Tidecaller",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Healing Wave heals for 25% more and applies 3 stacks of Tidecaller's Boon on the target. This effect increases the healing they take from your periodic Nature healing spells by 20% per stack, but reduces the healing they take from your Healing Wave by 3% per stack. Tidecaller's Boon stacks up to 15 times and your periodic Nature healing removes one stack.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965280",
+  "SpellID":"965280",
+  "SpellName":"Blooming Growth",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Regrowth criticals apply its heal over time effect to party and raid members within 8 yards.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977713",
+  "SpellID":"977713",
+  "SpellName":"Pure Shadow",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Shadow Bolt, Shadowburn and Shadow Word: Death casts draw power from your enemies, increasing the critical strike chance of your Shadow spells by 1%, stacking up to 10 times. When fully stacked, your Shadowfury will send pure Shadow crashing down at the target area, dealing massive Shadow damage spread between affected enemies.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978218",
+  "SpellID":"978218",
+  "SpellName":"Lucifur",
+  "SpellTooltip":"Your Ferocious Bite is transformed into Charred Bite dealing Fire damage and applying Charred Bite to your target. Charred Bite deals additional Fire Damage every 3 seconds for 15 seconds and increases the damage your Scorch deals to the target by 3% per combo point. This effect stacks up to 5 times.
+
+Scorch applies Devil's Claws to you, causing your Claw and Shred to restore 7% of your mana, deal additional Fire Damage and apply Mark of the Beast to you.
+Additional applications of Devil's Claws increase its duration by 4 seconds, up to a maximum of 20 seconds.
+
+Mark of the Beast reduces the energy cost of your Claw and Shred by 3, and increases the damage and critical strike chance you deal with Scorch by 5%. While Mark of the Beast is active, your Scorch generates combo points. This effect lasts for 18 seconds and stacks up to 5 times.",
+  "SpellDescription":"Your Ferocious Bite is transformed into Charred Bite dealing Fire damage and applying Charred Bite to your target. Charred Bite deals additional Fire Damage every 3 seconds for 15 seconds and increases the damage your Scorch deals to the target by 3% per combo point. This effect stacks up to 5 times.
+
+Scorch applies Devil's Claws to you, causing your Claw and Shred to restore 7% of your mana, deal additional Fire Damage and apply Mark of the Beast to you.
+Additional applications of Devil's Claws increase its duration by 4 seconds, up to a maximum of 20 seconds.
+
+Mark of the Beast reduces the energy cost of your Claw and Shred by 3, and increases the damage and critical strike chance you deal with Scorch by 5%. While Mark of the Beast is active, your Scorch generates combo points. This effect lasts for 18 seconds and stacks up to 5 times.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978219",
+  "SpellID":"978219",
+  "SpellName":"Blood Venom",
+  "SpellTooltip":"Your Bloodthirst applies Blood Venom, dealing Nature damage over time and increasing the damage taken by your Rogue Poisons by 30% per stack. This effect stacks up to 3 times.
+
+Dealing damage with Rend, Garrote or Rupture applies a stack Internal Bleeding to the target, increasing the damage of your Hemorrhage by 5%. This effect stacks up to 20 times.",
+  "SpellDescription":"|cffFF9900This Enchant is Temporarily Disabled!|r 
+
+Your Bloodthirst applies Blood Venom, dealing Nature damage over time and increasing the damage taken by your Rogue Poisons by 30% per stack. This effect stacks up to 3 times.
+
+Dealing damage with Rend, Garrote or Rupture applies a stack Internal Bleeding to the target, increasing the damage of your Hemorrhage by 5%. This effect stacks up to 20 times.
+
+This does not work while in Cat or Bear Form.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977710",
+  "SpellID":"977710",
+  "SpellName":"Overflow",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Healing Touch overflows and also heals a friendly party or raid target within 8 yards for $s1% of the amount healed. In addition, Healing Touch can also trigger Living Seed on non-criticals.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84806",
+  "SpellID":"84806",
+  "SpellName":"Fel Strike",
+  "SpellTooltip":"",
+  "SpellDescription":"Your direct damaging and healing abilities have a chance to launch an orbital strike of Fel Energy, dealing damage to your target and any other nearby enemies.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"965245",
+  "SpellID":"965245",
+  "SpellName":"Time Warp",
+  "SpellTooltip":"",
+  "SpellDescription":"After casting Blink your spell damage, spell haste, and spell critical strike chance is increased by 5% for 6 seconds. You will also learn to create a Time Warp, allowing you to return to your original Blink position if cast within 3 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"986000",
+  "SpellID":"986000",
+  "SpellName":"Champion of Justice",
+  "SpellTooltip":"",
+  "SpellDescription":"Using Crusader Strike, Judgement or Holy Shock increases your Holy healing power by 10% of your Strength for 20 seconds, stacking up to 3 times.
+
+When fully stacked, healing an ally triggers a bonus heal and adorns them for 15 seconds. While active, your damaging melee abilities restore 5% base mana to you and heals targets you have adorned.
+
+Casting Holy Shock on an Adorned target will consume the Adorn effect to heal up to five nearby friendly targets with low health.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954359",
+  "SpellID":"954359",
+  "SpellName":"Hydromancer",
+  "SpellTooltip":"",
+  "SpellDescription":"Transforms Frostbolt into Water Bolt which deals Frost damage and scales with Frostbolt modifiers.
+
+Casting Water Bolt applies Doused to the target and grants you Conductor, reducing the cast time of your next Lightning Bolt and Chain Lightning by 33% and increases their chance to trigger Lightning Overload by 25%, and increases the damage of your next Electrocute by 25%, stacking up to 3 times.
+
+Lightning Bolt and Chain Lightning will Electrocute Doused targets, dealing bonus damage and incapacitating them for 2 sec. The same enemy can only be incapacitated once every 20 sec.
+
+You also learn Water Nova which deals Frost damage, applies Doused and grants 2 stacks of Conductor. Electrocuting an enemy in a Water Nova electrifies it, causing it to deal Nature damage over time.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81404",
+  "SpellID":"81404",
+  "SpellName":"Low Tide",
+  "SpellTooltip":"",
+  "SpellDescription":"Your chance to critically heal with Nature healing spells on an ally affected by your Riptide is increased by 20% and critically healing with Healing Wave has a 60% chance to spread the Riptide to another nearby ally. Additionally, your Riptide heal over time effect can now critically heal.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"980046",
+  "SpellID":"980046",
+  "SpellName":"Master of Shadows",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Sinister Strike, Eviscerate, Garrote, and Rupture now deal extra Shadow damage, scaling with your spell damage.  Your Sinister Strike criticals grant you Apprentice of Shadows, increasing your spell haste by 8% and your Shadow spell damage by 20% of your Agility for 8 sec, stacking up to 3 times. When fully stacked, your Eviscerate or Rupture consume Apprentice of Shadows to increase your Shadow spell damage by 60% of your Agility and increase your Shadow damage done and your Shadow spell critical strike chance by 10% for 10 sec.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978220",
+  "SpellID":"978220",
+  "SpellName":"Fire Watch",
+  "SpellTooltip":"Your Explosive Shot is transformed into Explosive Charge. While active, this toggled ability causes your Lava Lash to leave behind an Explosive Charge on your target, detonating after 3 seconds and dealing Fire damage to the target and nearby enemies.
+
+Dealing damage with Flametongue Weapon reduces the active cooldown of Immolation and Explosive Trap by 2 seconds.
+
+Your Stormstrike now increases the damage of your Immolation and Explosive Trap by 20% for 12 seconds, stacking up to 5 times.
+
+Dealing Damage with Immolation Trap or Explosive Trap causes your next Mongoose Bite, Raptor Strike or Counterattack to deal additional Fire damage. This effect has a maximum of 3 charges.",
+  "SpellDescription":"Your Explosive Shot is transformed into Explosive Charge. While active, this toggled ability causes your Lava Lash to leave behind an Explosive Charge on your target, detonating after 3 seconds and dealing Fire damage to the target and nearby enemies.
+
+Dealing damage with Flametongue Weapon reduces the active cooldown of Immolation and Explosive Trap by 2 seconds.
+
+Your Stormstrike now increases the damage of your Immolation and Explosive Trap by 20% for 12 seconds, stacking up to 5 times.
+
+Dealing Damage with Immolation Trap or Explosive Trap causes your next Mongoose Bite, Raptor Strike or Counterattack to deal additional Fire damage. This effect has a maximum of 3 charges.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81251",
+  "SpellID":"81251",
+  "SpellName":"Benevolent Crusader",
+  "SpellTooltip":"",
+  "SpellDescription":"When you cast a direct Holy heal on an ally that does not over-heal, you will be granted a stack of Benevolent Crusader. Benevolent crusader stacks up to 5 times, and decreases the cast times of your Penance, Holy Fire, and Smite abilities by 12% per stack.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81168",
+  "SpellID":"81168",
+  "SpellName":"Soul of The Warden",
+  "SpellTooltip":"",
+  "SpellDescription":"Teaches you the Fan of Knives ability. Increases the effect of your Deadly Throw ability by $s2%. Reduces the cooldown of your Blink ability by $s3% while out of combat.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978742",
+  "SpellID":"978742",
+  "SpellName":"Double Down",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Sinister Strike now hits with both weapons, but no longer generates combo points. Does not work with Titan's Grip.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954044",
+  "SpellID":"954044",
+  "SpellName":"Locust Ranger",
+  "SpellTooltip":"",
+  "SpellDescription":"Teaches you Locust Shot if you know Steady Shot. Locust Shot deals Nature damage based on your ranged weapon damage, scales with Steady Shot modifiers and is increased by your spell damage. This ability is castable while moving. When it deals non-critical damage it triggers Wild Quiver (requires rank 3 of the Wild Quiver talent). When it deals critical damage, it reduces the cooldown of your Chimera shot by 2 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"979796",
+  "SpellID":"979796",
+  "SpellName":"Prophet of Wrath",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Arcane Blast and Arcane Missiles increase the duration of Divine Illumination by 0.5 seconds each time they damage an enemy. Your Smite and Holy Fire spells reduce the cooldown of Divine Illumination by 6 seconds.
+
+While Divine Illumination is active, your Arcane and Holy spell critical damage bonus is increased by 40%. In addition, your Arcane Blast and Arcane Missiles become infused with Holy power, causing them to deal Divine damage.
+
+Divine damage is a combination of the Arcane and Holy schools, and will benefit from the highest modifier to either school.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"980673",
+  "SpellID":"980673",
+  "SpellName":"Frozen Chaos",
+  "SpellTooltip":"Your Frostbolt and Ice Lance critical hits grant you a charge of Frozen Chaos and resets the cooldown of Chaos Bolt. You can store up to 3 charges of Frozen Chaos.
+
+Frozen Chaos increases the damage of your Chaos Bolt by 15% and the spell power scaling by 20% while additionally causing it to incur no cooldown.
+
+Casting Conflagrate grants you Splintered Chaos, causing your Chaos Bolts to hit an additional target. In addition, your Conflagrate triggers your Fingers of Frost (if known).",
+  "SpellDescription":"Your Frostbolt and Ice Lance critical hits grant you a charge of Frozen Chaos and resets the cooldown of Chaos Bolt. You can store up to 3 charges of Frozen Chaos.
+
+Frozen Chaos increases the damage of your Chaos Bolt by 15% and the spell power scaling by 20% while additionally causing it to incur no cooldown.
+
+Casting Conflagrate grants you Splintered Chaos, causing your Chaos Bolts to hit an additional target. In addition, your Conflagrate triggers your Fingers of Frost (if known).",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954424",
+  "SpellID":"954424",
+  "SpellName":"Templar of Flame",
+  "SpellTooltip":"",
+  "SpellDescription":"Transforms your Seal of Righteousness into Seal of Fervor, dealing Fire damage to your target.
+
+Unleashing this Seal's energy will deal Fire damage over 3 seconds. If cast on an enemy afflicted by your Flamestrike, this damage will spread to all enemies within 8 yards affected by any Flamestrike.
+
+While Seal of Fervor is active your Holy and Fire damage spells and abilities have a chance to reduce your damage taken by 8% for 10 seconds and your Judgements will trigger the Firestarter Capstone effect (if known).",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977921",
+  "SpellID":"977921",
+  "SpellName":"Holy Spirit",
+  "SpellTooltip":"",
+  "SpellDescription":"Penance now lasts for an extra 0.5 seconds, firing an extra volley of light. 
+
+Healing or dealing damage with Penance increases the healing and critical effect chance of your next Holy Shock by 20%, stacking up to 4 times. 
+
+In addition, effective healing with Holy Light and Flash of Light reduces the cooldown of Penance by 3 sec.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977817",
+  "SpellID":"977817",
+  "SpellName":"Razor Claws",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Claw ability costs 10 less energy, gains additional damage equal to 20% of your attack power, and now extends the duration of your Rake by 6 seconds and Rip by 2 seconds. Using it also sharpens your claws, increasing your physical damage by 2% and the damage of your Rip by 5%. This effect stacks up to 3 times.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"99634",
+  "SpellID":"99634",
+  "SpellName":"Corrupted Bear Form",
+  "SpellTooltip":"",
+  "SpellDescription":"Corrupts your Bear Form, reducing your Physical damage by 30% but making your melee attacks deal additional high-threat Shadow damage.
+
+While in Corrupted Bear Form, your Maul and Mangle (Bear) have a chance to apply Corruption and your Swipe (Bear) drains life from targets afflicted by your Corruption (if known). In addition, Shadow Bolts made instant by Nightfall or Backlash can be cast without leaving Corrupted Bear Form and will hit up to two additional targets, dealing reduced damage.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"979765",
+  "SpellID":"979765",
+  "SpellName":"Hot Hands",
+  "SpellTooltip":"",
+  "SpellDescription":"Increases your spell critical strike chance by 5% on targets affected by your Living Bomb. Your Hot Streak can now trigger from Pyroblast.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84506",
+  "SpellID":"84506",
+  "SpellName":"Unbounded Deathbringer",
+  "SpellTooltip":"",
+  "SpellDescription":"Your non-periodic damaging spells and abilities have a chance to drain the life force of your target and his nearby allies, dealing additional Shadow damage and returning a portion of it to you. This effect scales with your Drain Life ability.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84750",
+  "SpellID":"84750",
+  "SpellName":"Tools of War",
+  "SpellTooltip":"",
+  "SpellDescription":"Each unique direct damage Physical ability grants you a stack of Tools of War, increasing your Physical damage by $84751s1% (2% against players), stacking 10 times. Any non-physical damage resets all stacks.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978202",
+  "SpellID":"978202",
+  "SpellName":"White Walker",
+  "SpellTooltip":"Your Sinister Strike and Eviscerate criticals trigger an Ice Lance (if known) at your target. Fingers of Frost is not consumed by this effect. Your casted Ice Lance criticals will generate 20 Energy. 
+
+Eviscerate has a 20% chance per combo point to trigger Fingers of Frost (if known), but you can only gain Fingers of Frost with Eviscerate.
+
+Slice and Dice is transformed into Slice and Ice, increasing your melee critical strike rating by 50% of your Intellect and causes your Sinister Strike & Eviscerate to gain additional damage scaling from your spell power. Requires a single 2h weapon.
+
+Your Cone of Cold is transformed into Winds of Winter, a finishing move that deals additional Frost damage per combo point to targets in a cone in front of you and is only usable while Slice and Ice is active.",
+  "SpellDescription":"Your Sinister Strike and Eviscerate criticals trigger an Ice Lance (if known) at your target during Slice and Ice. Fingers of Frost is not consumed by this effect. Your casted Ice Lance criticals will generate 20 Energy during Slice and Ice. 
+
+Eviscerate has a 20% chance per combo point to trigger Fingers of Frost (if known), but you can only gain Fingers of Frost with Eviscerate.
+
+Slice and Dice is transformed into Slice and Ice, increasing your melee critical strike rating by 50% of your Intellect and causes your Sinister Strike & Eviscerate to gain additional damage scaling from your spell power. Requires a single 2h weapon.
+
+Your Cone of Cold is transformed into Winds of Winter, a finishing move that deals additional Frost damage per combo point to targets in a cone in front of you and is only usable while Slice and Ice is active.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977967",
+  "SpellID":"977967",
+  "SpellName":"Shadow Counter",
+  "SpellTooltip":"",
+  "SpellDescription":"If you know Shadowstep you learn a more advanced form of this magic: Shadow Warp. This spell envelops the caster in shadows for up to 2 seconds. 
+
+While channeling, the caster is immune to any effects that would cause them to lose control of their actions. If struck by a direct damage attack while active, the shadows absorb the hit, harnessing the energy to Shadowstep to the attacker and making them take 10% increased damage from your attacks for 6 seconds. 
+
+This ability is affected by modifiers to Shadowstep and shares an irreducible 20 second cooldown with Shadowstep, Feral Charge, Intercept and Intervene. It only works against players.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978209",
+  "SpellID":"978209",
+  "SpellName":"Dark Surgeon",
+  "SpellTooltip":"",
+  "SpellDescription":"Your healing power is increased by 20% of your attack power but your healing taken is reduced by 30%.
+
+Holy Nova is transformed into Dark Transfusion, a finishing move that deals damage to nearby enemies and heals nearby allies per combo point.
+
+Using Mutilate increases the healing done by your Circle of Healing by 15%, stacking to 2. Your damaging Rogue finishers consume the stacks and have a 10% chance per combo points to trigger a lesser Circle of Healing.
+
+Your damaging Rogue finishers have a 20% chance per combo point to reduce the mana cost of Greater Heal and Flash Heal by 15%, and reduce the cast time of Greater Heal by 33% and increase its healing by 15%, stacking to 3. Using Greater Heal consume the stacks.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81497",
+  "SpellID":"81497",
+  "SpellName":"Atonement",
+  "SpellTooltip":"",
+  "SpellDescription":"Dealing direct damage with Smite, Holy Fire or Penance now also heals nearby allies affected by your Grace for 25% of the damage dealt. This effect may not heal the caster and is reduced by 50% when damaging players.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977972",
+  "SpellID":"977972",
+  "SpellName":"Temporal Shift",
+  "SpellTooltip":"",
+  "SpellDescription":"Teaches you Temporal Blast, a casted spell dealing Arcane damage to the target and reducing the cast time of your next other direct damaging spell by 40%. This effect can be stored up to 3 times.
+
+Cancelling a Temporal Blast before it finishes stores the time invested into the cast, reducing the cast time of your next Temporal Blast by the same amount. 
+
+Temporal Blast damage scales with modifiers to Arcane Blast.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978724",
+  "SpellID":"978724",
+  "SpellName":"Bulwark",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Shield Block is transformed into Shield Block - Bulwark, an improved channeled version (requires Defensive Stance). Channeling this ability causes you to periodically Shield Slam all enemies around you, gain 8% more damage reduction through Critical Block, and a 100% increased chance to critically block. Channeling also reduces your movement speed by 50% and drains progressively more energy. Once your energy is depleted the effect will end, and cannot be recast until your energy is fully restored.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978229",
+  "SpellID":"978229",
+  "SpellName":"Elemental Assassin",
+  "SpellTooltip":"Your Frost Shock is transformed into Ice Shock.
+
+Ice Shock is a finisher move dealing direct Frost damage, then additional Frost damage over 6 seconds that restores energy when dealing damage.
+
+Your Backstab deals 20% more damage for each of your Shaman Shocks on your target and grants you Elemental Assassin.
+
+Elemental Assassin increases the direct damage of your next Shaman Shock by 40% and increases the duration by 6 seconds. Stormstrike also deals 50% more damage and does not consume Elemental Assassin. This effect stacks up to 2 times.
+
+Your Shaman Shocks grant you Elemental Blade for the duration of the shock, increasing your Stormstrike critical damage by 15% and your Spell damage by 20% of your Agility. You can have Earth, Fire and Ice Elemental Blade active at the same time.",
+  "SpellDescription":"Your Frost Shock is transformed into Ice Shock.
+
+Ice Shock is a finisher move dealing direct Frost damage, then additional Frost damage over 6 seconds that restores energy when dealing damage.
+
+Your Backstab deals 20% more damage for each of your Shaman Shocks on your target and grants you Elemental Assassin.
+
+Elemental Assassin increases the direct damage of your next Shaman Shock by 40% and increases the duration by 6 seconds. Stormstrike also deals 50% more damage and does not consume Elemental Assassin. This effect stacks up to 2 times.
+
+Your Shaman Shocks grant you Elemental Blade for the duration of the shock, increasing your Stormstrike critical damage by 15% and your Spell damage by 20% of your Agility. You can have Earth, Fire and Ice Elemental Blade active at the same time.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978233",
+  "SpellID":"978233",
+  "SpellName":"Spell Shredder",
+  "SpellTooltip":"Frostbolt grants you Elemental Overpower (Frost). Fireball grants you Elemental Overpower (Fire). Lightning Bolt grants you Elemental Overpower (Nature).
+
+Your Overpower consumes Elemental Overpower and grants you Spell Shredder for 24 seconds. Spell Shredder increases your bonus spell damage by 10% of your attack power. You can have Fire, Frost and Nature Shredder active at the same time.
+
+Mortal Strike deals additional elemental damage for each Spell Shredder active.
+
+Rend applies Elemental Rend for each Spell Shredder active, dealing that element’s damage over time and increasing that school’s damage you deal to the target by 10%. You can have each element’s Elemental Rend active on the same target.",
+  "SpellDescription":"Frostbolt grants you Elemental Overpower (Frost). Fireball grants you Elemental Overpower (Fire). Lightning Bolt grants you Elemental Overpower (Nature).
+
+Your Overpower consumes Elemental Overpower and grants you Spell Shredder for 24 seconds. Spell Shredder increases your bonus spell damage by 10% of your attack power. You can have Fire, Frost and Nature Shredder active at the same time.
+
+Mortal Strike deals additional elemental damage for each Spell Shredder active.
+
+Rend applies Elemental Rend for each Spell Shredder active, dealing that element’s damage over time and increasing that school’s damage you deal to the target by 10%. You can have each element’s Elemental Rend active on the same target.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81470",
+  "SpellID":"81470",
+  "SpellName":"Words of Healing",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Borrowed Time now also increases the critical strike chance of your direct healing spells by 20% while active. In addition, Borrowed Time is no longer consumed by casting spells.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977991",
+  "SpellID":"977991",
+  "SpellName":"Stormborn",
+  "SpellTooltip":"",
+  "SpellDescription":"Elemental Mastery now also increases your melee haste by 15% and halves the cooldown of your Stormstrike. While Elemental Mastery or Shamanistic Rage are active, your Stormstrike deals additional Nature damage to all enemies in front of you.
+
+In addition, the damage of your Lightning Bolt and Chain Lightning spells is now increased by 20% your attack power, and your Lightning Shield orbs by 10% of your attack power.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"86460",
+  "SpellID":"86460",
+  "SpellName":"Cauterizing Flames",
+  "SpellTooltip":"Fireball is transformed into Cauterizing Fire, dealing Fire damage when cast on enemies and healing when cast on allies. This heal scales from your Fire Spell Power. 
+
+Cauterizing Fire applies Cauterizing Flames, healing allies or damaging enemies over 14 seconds. Upon reaching the 5th stack of Cauterizing Flames on a target, you trigger a Holy Nova at your targets location if you know the spell.
+
+When an enemy attacks an ally affected by your Prayer of Mending, it will apply Flames of the Apostate to the attacker, dealing Fire damage over 15 seconds.
+
+Holy Fire ignites your Flames of the Apostate to heal nearby allies and spreads Flames of the Apostate to 3 nearby enemies. Igniting Flames of the Apostate increases your healing power by 10% of your fire spell power for 12 seconds. Stacks to 5.",
+  "SpellDescription":"|cffFF9900This Enchant is Temporarily Disabled!|r 
+
+Fireball is transformed into Cauterizing Fire, dealing Fire damage when cast on enemies and healing when cast on allies. This heal scales from your Fire Spell Power. 
+
+Cauterizing Fire applies Cauterizing Flames, healing allies or damaging enemies over 14 seconds. Upon reaching the 5th stack of Cauterizing Flames on a target, you trigger a Holy Nova at your targets location if you know the spell.
+
+When an enemy attacks an ally affected by your Prayer of Mending, it will apply Flames of the Apostate to the attacker, dealing Fire damage over 15 seconds.
+
+Holy Fire ignites your Flames of the Apostate to heal nearby allies and spreads Flames of the Apostate to 3 nearby enemies. Igniting Flames of the Apostate increases your healing power by 10% of your fire spell power for 12 seconds. Stacks to 5.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84459",
+  "SpellID":"84459",
+  "SpellName":"Battle Fervor",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Charge ability triggers Improved Victory Rush.
+
+Battle Shout increases attack speed and movement speed by 30% for 3 seconds. This effect cannot occur more than once every 10 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81479",
+  "SpellID":"81479",
+  "SpellName":"Astral Tempest",
+  "SpellTooltip":"",
+  "SpellDescription":"You gain a stack of Overloaded when dealing direct Nature or Arcane Damage. Upon reaching 20 stacks of Overloaded, you will trigger an Astral Tempest on your target. This spell deals Astral damage to all nearby enemies over 8 seconds and increases the magic damage you deal by 5% for 8 seconds. Astral damage is a combination of the Arcane and Nature schools, and will benefit from the highest modifier to either school.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977928",
+  "SpellID":"977928",
+  "SpellName":"Stormhammer",
+  "SpellTooltip":"",
+  "SpellDescription":"If you know Concussion Blow you also learn Concussion Blow (Stormhammer), an attack with 15 yard range that deals Nature damage. This attack does not stun the target, but increases your spell damage by 30% of your Stamina and reduces your damage taken by 10% for 10 seconds.
+
+Dealing damage with Thunder Clap or Hammer of the Righteous empowers your Lightning Bolt and Chain Lightning for 8 seconds, increasing their threat by 100% and making them reduce the cooldown of Concussion Blow (Stormhammer) by 8 seconds.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"978228",
+  "SpellID":"978228",
+  "SpellName":"Midnight Flames",
+  "SpellTooltip":"",
+  "SpellDescription":"Corruption, Conflagrate and Immolate's periodic damage increasing your spell critical strike chance against the target with Fireball and Fire Blast by 1%, and increases the damage your Pyroblast does to it by 3%. This effect stacks up to 5 times. Your Pyroblast consumes all stacks.
+
+Damage dealt with Fireball, Fire Blast and Pyroblast increases the damage of your next Conflagrate by 5%. This effect stacks up to 5 times.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"979740",
+  "SpellID":"979740",
+  "SpellName":"Compound Power",
+  "SpellTooltip":"",
+  "SpellDescription":"Your successful Steady Shots and Arcane Shots now award a combo point, and Slice and Dice now also increases your Ranged Attack Speed. 
+
+If you know Aimed Shot, you will now also learn Compound Shot, which consumes your combo points to fire an empowered Aimed Shot. This ability scales with your Aimed Shot ability, and also shares a cooldown with it.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"954067",
+  "SpellID":"954067",
+  "SpellName":"Titanic Mutilate",
+  "SpellTooltip":"",
+  "SpellDescription":"While Titan's Grip is active you learn Mutilate (Titan), an attack with both weapons dealing 90% weapon damage, increased by 20% if your target is bleeding. Also, your Bloodthirst deals 5% more damage per active combo point and dealing damage with Whirlwind triggers Bloodrage (if known).",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"979748",
+  "SpellID":"979748",
+  "SpellName":"One With The Light",
+  "SpellTooltip":"",
+  "SpellDescription":"Deep spiritual unity allows you to transcend the physical plane. Your Physical damage done is halved but your Holy spell damage is increased by 40% of your Strength. Crusader Strike and Divine Storm now also deal Holy damage and scale with your Holy spell damage. 
+
+Your Crusader Strike and Divine Storm abilities grant you two stacks (one vs players) of Holy Specialization if known. In addition, Holy Specialization increases the damage of your next Smite or Holy Fire by 3% per stack.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"84805",
+  "SpellID":"84805",
+  "SpellName":"Abiding Fel Energy",
+  "SpellTooltip":"",
+  "SpellDescription":"Your direct damaging and healing abilities have a chance to summon a torrent of Fel Energy that lingers, adding Fire damage to your abilities.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"977906",
+  "SpellID":"977906",
+  "SpellName":"Blood and Guts",
+  "SpellTooltip":"",
+  "SpellDescription":"Transforms your Eviscerate into Eviscerate (Disembowel), a finishing move that uses a Dagger to make a swift incision, causing your target to take bleed damage over 6 seconds. This damage scales with modifiers to Eviscerate and can critically strike. 
+
+Your Mutilate deals bonus damage against Disemboweled targets. Casting Execute attempts to finish the target off, consuming Disembowel to deal bonus damage and triggering Remorseless Attacks (if known).",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81472",
+  "SpellID":"81472",
+  "SpellName":"Dominant Word: Shield",
+  "SpellTooltip":"",
+  "SpellDescription":"Your Power Word: Shield now absorbs 250% of its normal value when used on a target below 75% health. The additional absorb effect lasts for 5 seconds and reduces the cooldown of your Power Word: Shield by 1 second. In addition, the mana returned to you from your Rapture is increased by 100%.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+},
+{
+  "EnchantID":"81258",
+  "SpellID":"81258",
+  "SpellName":"Battlemage",
+  "SpellTooltip":"Your Warrior abilities now have a chance to trigger either Arcane Barrage, Fire Blast, or Ice Lance. You must know one of these spells to successfully proc them.",
+  "SpellDescription":"Your Warrior abilities now have a chance to trigger either Arcane Barrage, Fire Blast, or Ice Lance. These abilities deal 20% less damage to players. You must know one of these spells to trigger them.",
+  "French_spell_Name":"",
+  "French_spell_Tooltip":"",
+  "French_spell_Description":"",
+  "Quality":"5",
+  "Stackable":"1"
+}
